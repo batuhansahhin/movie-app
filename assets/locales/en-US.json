@@ -1,0 +1,90 @@
+{
+    "watch_trial": "Watch Trial",
+    "peaky_blinders": "Peaky Blinders",
+    "john_wick_description": "John Wick is on the run after killing a member of the international assassins guild, and with a 14 million price tag on his head, he is the target of hit men and women everywhere.",
+    "change_language": "Change Language",
+    "turkish": "Turkish",
+    "english": "English",
+    "profile_setting": "Profile Setting",
+    "application_setting": "Application Setting",
+    "whats_popular": "Trending Movies",
+    "tv_trending": "Trending Series",
+    "cast": "Cast",
+    "summary": "Summary",
+    "see_more": "See More",
+    "average_vote": "Average Vote",
+    "language": "Original Language",
+    "placeholder": "Placholder",
+    "unknow_date": "Unknow Date",
+    "username": "Username",
+    "password": "Password",
+    "footer": {
+        "the_basic": "THE BASIC",
+        "about_tmdb": "About TMDB",
+        "contact_us": "Contact Us",
+        "support_forums": "Support Forums",
+        "api": "API",
+        "system_status": "System Status",
+        "get_involved": "GET INVOLVED",
+        "contribution_bible": "Contribution Bible",
+        "third_party_apps": "3rd Party Applications",
+        "add_new_movie": "Add New Movie",
+        "add_new_tv_show": "Add New TV Show",
+        "community": "COMMUNITY",
+        "guidelines": "Guidelines",
+        "discussions": "Discussions",
+        "leaderboard": "Leaderboard",
+        "twitter": "Twitter"
+    },
+    "sub_footer": {
+        "rights_reserved": "© 2021 TÜBİTAK. All rights reserved.",
+        "terms_of_use": "Terms of Use",
+        "api_terms_of_use": "API Terms of Use",
+        "privacy_policy": "Privacy Policy"
+    },
+    "profile_photo": {
+        "photo_choose": "Choose Photo",
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "description": "Add an Image from Camera or Gallery"
+    },
+    "profile_home": {
+        "personel_setting": "Personel Setting",
+        "account_setting": "Account Setting",
+        "select_language": "Select Language",
+        "logout": "Log Out",
+        "account_choise": "Account Choise",
+        "name": "Name",
+        "surname": "Surname",
+        "name_surname_description": "You can update your name settings here",
+        "data_saved_successfully": "Data saved succesfully",
+        "save": "Save"
+    },
+    "password_page": {
+        "password_correct": "Make sure you enter the current password correctly.",
+        "password_suc_update": "The password has been successfully updated.",
+        "password_not_match": "The new passwords do not match.",
+        "current_password": "Current Password",
+        "new_password": "New Password",
+        "confirm_new_password": "Confirm New Password",
+        "change_password": "Change Password",
+        "password_title": "Password Setting",
+        "password_subtitle": "You can update password settings"
+    },
+    "language_selector_page": {
+        "title": "Language Selector",
+        "select_language": "Select a Language",
+        "select_language_description": "Choose your preferred language from the options below:",
+        "success_message": "Language successfully saved.",
+        "english": "English",
+        "turkish": "Turkish"
+    },
+    "edit_dialog": {
+        "title": "Edit",
+        "save_button": "Save",
+        "cancel_button": "Cancel"
+    },
+    "whish_list": {
+        "title": "Registered movies and TV shows"
+    }
+}

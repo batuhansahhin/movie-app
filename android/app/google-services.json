@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "49480184102",
+    "project_id": "muvime-f2888",
+    "storage_bucket": "muvime-f2888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49480184102:android:a9d9dc3c83358b8e92d1e7",
+        "android_client_info": {
+          "package_name": "com.example.bte_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49480184102-3rrdovm16d54ggesfg6td2qt27oh4vhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-sIym33c1N7ypvpzVyqbobGBXO5u2fFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49480184102-3rrdovm16d54ggesfg6td2qt27oh4vhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49480184102-4gn5qtdhub4apqjhllqaic2lsbe0iop6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bteProject.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,88 @@
+{
+    "watch_trial": "Fragmanı İzle",
+    "peaky_blinders": "Peaky Blinders",
+    "john_wick_description": "John Wick, uluslararası suikastçı loncasının bir üyesini öldürdükten sonra kaçıyor ve kellesine 14 milyonluk bir fiyat konmuş durumda, her yerde erkek ve kadın tetikçilerin hedefi haline geliyor.",
+    "change_language": "Dil Değiştir",
+    "turkish": "Türkçe",
+    "english": "İngilizce",
+    "whats_popular": "Trend Filmler",
+    "tv_trending": "Trend Diziler",
+    "cast": "Oyuncular",
+    "summary": "Özet",
+    "see_more": "Daha Fazla",
+    "average_vote": "Ortalama Oy",
+    "language": "Orijinal Dil",
+    "placeholder": "Bir Şeyler Arat",
+    "unknow_date": "Geçersiz Tarih",
+    "username": "Kullanıcı Adı",
+    "password": "Şifre",
+    "footer": {
+        "the_basic": "TEMEL",
+        "about_tmdb": "TMDB Hakkında",
+        "contact_us": "Bize Ulaşın",
+        "support_forums": "Destek Forumları",
+        "api": "API",
+        "system_status": "Sistem Durumu",
+        "get_involved": "KATILIN",
+        "contribution_bible": "Katkı Rehberi",
+        "third_party_apps": "Üçüncü Parti Uygulamalar",
+        "add_new_movie": "Yeni Film Ekle",
+        "add_new_tv_show": "Yeni TV Programı Ekle",
+        "community": "TOPLULUK",
+        "guidelines": "Kurallar",
+        "discussions": "Tartışmalar",
+        "leaderboard": "Liderlik Tablosu",
+        "twitter": "Twitter"
+    },
+    "sub_footer": {
+        "rights_reserved": "© 2021 TÜBİTAK. Tüm hakları saklıdır.",
+        "terms_of_use": "Kullanım Koşulları",
+        "api_terms_of_use": "API Kullanım Koşulları",
+        "privacy_policy": "Gizlilik Politikası"
+    },
+    "profile_photo": {
+        "photo_choose": "Fotoğraf Seç",
+        "camera": "Kamera",
+        "gallery": "Fotoğraflar",
+        "description": "Kameradan veya Fotoğraflardan Bir Görsel Ekleyin"
+    },
+    "profile_home": {
+        "personel_setting": "Kişisel Ayarlar",
+        "account_setting": "Hesap Ayarları",
+        "select_language": "Dil Seçimi",
+        "logout": "Çıkış Yap",
+        "account_choise": "Hesap Tecihleri",
+        "name": "İsim",
+        "surname": "Soyisim",
+        "name_surname_description": "İsim ayarlarınızı buradan güncelleyebilirsiz",
+        "data_saved_successfully": "Veriler başarılı bir şekilde kaydedildi",
+        "save": "Kaydet"
+    },
+    "password_page": {
+        "password_correct": "Mevcut şifreyi doğru girdiğinizden emin olun.",
+        "password_suc_update": "Şifre başarıyla güncellendi.",
+        "password_not_match": "Yeni şifreler eşleşmiyor.",
+        "current_password": "Mevcut Şifre",
+        "new_password": "Yeni Şifre",
+        "confirm_new_password": "Yeni Şifre Tekrar",
+        "change_password": "Şifreyi Değiştir",
+        "password_title": "Şifre Ayarları",
+        "password_subtitle": "Şifrenizi güncelleyebilirsiniz"
+    },
+    "language_selector_page": {
+        "title": "Dil Seçimi",
+        "select_language": "Bir Dil Seçin",
+        "select_language_description": "Aşağıdaki seçeneklerden tercih ettiğiniz dili seçin:",
+        "success_message": "Dil başarıyla kaydedildi.",
+        "english": "İngilizce",
+        "turkish": "Türkçe"
+    },
+    "edit_dialog": {
+        "title": "Düzenle",
+        "save_button": "Kaydet",
+        "cancel_button": "İptal"
+    },
+    "whish_list": {
+        "title": "Kayıtlı filmler ve dizler"
+    }
+}
